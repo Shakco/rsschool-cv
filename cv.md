@@ -18,3 +18,6 @@ KeyDown += (s, e) => { if (e.KeyValue == (char)Keys.Enter) button1_Click(button1
 
 ## Education ##
 МАДИ
+
+## English ##
+So beautiful!
